@@ -1,5 +1,5 @@
                                
-![I am a student and software developer.](https://arturssmirnovs.github.iohttps://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/243813590_1172759976549051_8345013716661930093_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEkgAfK03SJoSZTikEiuIEZ0qmgBjUQU1LSqaAGNRBTUmiHu6Pu3DduT5XMAs06fwz_2bsYbxU_EvWJcI28S1Nk&_nc_ohc=hsHpCM-BlfMAX_gUui1&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfD0x3pZTQkCMBeycyLIOI0zsC400KKK8K1_6HvXjxlcdg&oe=6465FE87/github-profile-readme-generator/images/banner.png)
+![Software developer.](https://arturssmirnovs.github.iohttps://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/243813590_1172759976549051_8345013716661930093_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEkgAfK03SJoSZTikEiuIEZ0qmgBjUQU1LSqaAGNRBTUmiHu6Pu3DduT5XMAs06fwz_2bsYbxU_EvWJcI28S1Nk&_nc_ohc=hsHpCM-BlfMAX_gUui1&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfD0x3pZTQkCMBeycyLIOI0zsC400KKK8K1_6HvXjxlcdg&oe=6465FE87/github-profile-readme-generator/images/banner.png)
 
 
 # Hi there 👋, This is Arghyajit Sadhu.
