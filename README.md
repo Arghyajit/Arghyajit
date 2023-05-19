@@ -1,5 +1,5 @@
 # Hi there 👋, This is Arghyajit Sadhu.
-## I am a student and software developer.
+## Student and Software developer.
 I am a undergraduate CSE student at American International University Bangladesh . I am a software developer who is very professional and passionate with his work and responsibility. I’m trying my best in my fields and trying to gather knowledge to improved more my coding  skill.
 
 Skills:  JS / HTML / CSS / C++ / C# / PHP / PHYTHON
