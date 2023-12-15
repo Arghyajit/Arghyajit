@@ -8,7 +8,7 @@ Skills:  JS / HTML / CSS / C++ / C# / PHP / PHYTHON
 - 🌱 I’m currently learning JS, PHP, PHYTHON 
 - 👯 I’m looking to collaborate on Gmail & Facebook. 
 - 💬 Ask me about Software develop. 
-- 📫 How to reach me: darkarghya@gmail.com         https://www.facebook.com/arghya.jit.547 
+- 📫 How to contact me: darkarghya@gmail.com         https://www.facebook.com/arghya.jit.547 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arghyajit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ArghyaJit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_arghya.jit_/)  
